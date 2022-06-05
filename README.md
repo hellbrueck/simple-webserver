@@ -11,4 +11,4 @@ Or, if you're a Windows user:
 
 	ncat -lk -p 8080 --sh-exec "echo HTTP/1.1 200 OK& echo(&type index.html"
 
-an index.html file is here 
+an index.html file is here ./index.hml
